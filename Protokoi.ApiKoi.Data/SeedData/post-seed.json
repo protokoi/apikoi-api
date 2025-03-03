@@ -1,0 +1,21 @@
+﻿[
+	{
+		"CategoryName": "Technology",
+		"Title": "Introduction to .NET 8",
+		"Content": "This post explains what's new in .NET 8.",
+		"Summary": "Overview of .NET 8 features",
+		"ImageUrl": "http://example.com/image.png",
+		"VideoUrl": null,
+		"AudioUrl": null,
+		"Tags": [ "dotnet", "technology" ],
+		"IsPublished": true,
+		"PublishedAt": "2025-03-03T10:00:00Z",
+		"IsFeatured": false,
+		"Views": 100,
+		"Likes": 10,
+		"Dislikes": 1,
+		"Comments": 0,
+		"CreatedDate": "2025-03-03T00:00:00Z",
+		"ModifiedDate": "2025-03-03T00:00:00Z"
+	}
+]
