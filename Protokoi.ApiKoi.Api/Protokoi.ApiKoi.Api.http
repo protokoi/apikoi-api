@@ -1,0 +1,6 @@
+@Protokoi.ApiKoi.Api_HostAddress = http://localhost:5072
+
+GET {{Protokoi.ApiKoi.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,42 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.13" />
+      <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="8.0.13" />
+	  <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.13" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Protokoi.ApiKoi.Core.Shared\Protokoi.ApiKoi.Core.Shared.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="SeedData\category-seed.json" />
+      <Content Include="SeedData\category-seed.json">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </Content>
+      <None Remove="SeedData\comment-seed.json" />
+      <Content Include="SeedData\comment-seed.json">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </Content>
+      <None Remove="SeedData\post-seed.json" />
+      <Content Include="SeedData\post-seed.json">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </Content>
+      <None Remove="SeedData\todo-seed.json" />
+      <Content Include="SeedData\todo-seed.json">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </Content>
+      <None Remove="SeedData\user-seed.json" />
+      <Content Include="SeedData\user-seed.json">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </Content>
+    </ItemGroup>
+
+</Project>

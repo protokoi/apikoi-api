@@ -1,0 +1,6 @@
+﻿services:
+  protokoi.apikoi.api:
+    image: protokoi.apikoi.api
+    build:
+      context: .
+      dockerfile: Protokoi.ApiKoi.Api/Dockerfile
