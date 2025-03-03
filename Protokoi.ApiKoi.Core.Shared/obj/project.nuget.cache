@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bmU7CZdS5Ps=",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\DOTNET\\Protokoi\\ApiKoi\\Protokoi.ApiKoi.Core.Shared\\Protokoi.ApiKoi.Core.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\mapster\\7.4.0\\mapster.7.4.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\mapster.core\\1.2.1\\mapster.core.1.2.1.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

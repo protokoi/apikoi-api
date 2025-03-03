@@ -1,0 +1,14 @@
+﻿[
+	{
+		"Name": "Technology",
+		"Description": "Posts related to tech.",
+		"CreatedDate": "2025-03-03T00:00:00Z",
+		"ModifiedDate": "2025-03-03T00:00:00Z"
+	},
+	{
+		"Name": "Lifestyle",
+		"Description": "Posts about lifestyle and wellness.",
+		"CreatedDate": "2025-03-03T00:00:00Z",
+		"ModifiedDate": "2025-03-03T00:00:00Z"
+	}
+]

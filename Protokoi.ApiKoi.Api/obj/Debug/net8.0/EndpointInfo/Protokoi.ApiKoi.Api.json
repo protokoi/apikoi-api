@@ -1,0 +1,22 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "Protokoi.ApiKoi.Api",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/v1/Commons": {
+      "get": {
+        "tags": [
+          "Commons"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}

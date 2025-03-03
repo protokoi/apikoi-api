@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Protokoi.ApiKoi.Api.props" />
+</Project>

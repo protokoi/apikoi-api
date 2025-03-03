@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "Protokoi.ApiKoi.Api.Controllers.v1.CommonsController",
+    "Method": "Get",
+    "RelativePath": "api/v1/Commons",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

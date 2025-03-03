@@ -1,0 +1,14 @@
+C:\output\Protokoi.ApiKoi.Data.Shared\Protokoi.ApiKoi.Data.Shared.deps.json
+C:\output\Protokoi.ApiKoi.Data.Shared\Protokoi.ApiKoi.Data.Shared.dll
+C:\output\Protokoi.ApiKoi.Data.Shared\Protokoi.ApiKoi.Data.Shared.pdb
+D:\Projects\DOTNET\Protokoi\ApiKoi\Protokoi.ApiKoi.Data.Shared\obj\Debug\net8.0\Protokoi.ApiKoi.Data.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\DOTNET\Protokoi\ApiKoi\Protokoi.ApiKoi.Data.Shared\obj\Debug\net8.0\Protokoi.ApiKoi.Data.Shared.AssemblyInfoInputs.cache
+D:\Projects\DOTNET\Protokoi\ApiKoi\Protokoi.ApiKoi.Data.Shared\obj\Debug\net8.0\Protokoi.ApiKoi.Data.Shared.AssemblyInfo.cs
+D:\Projects\DOTNET\Protokoi\ApiKoi\Protokoi.ApiKoi.Data.Shared\obj\Debug\net8.0\Protokoi.ApiKoi.Data.Shared.csproj.CoreCompileInputs.cache
+D:\Projects\DOTNET\Protokoi\ApiKoi\Protokoi.ApiKoi.Data.Shared\obj\Debug\net8.0\Protokoi.ApiKoi.Data.Shared.dll
+D:\Projects\DOTNET\Protokoi\ApiKoi\Protokoi.ApiKoi.Data.Shared\obj\Debug\net8.0\refint\Protokoi.ApiKoi.Data.Shared.dll
+D:\Projects\DOTNET\Protokoi\ApiKoi\Protokoi.ApiKoi.Data.Shared\obj\Debug\net8.0\Protokoi.ApiKoi.Data.Shared.pdb
+D:\Projects\DOTNET\Protokoi\ApiKoi\Protokoi.ApiKoi.Data.Shared\obj\Debug\net8.0\ref\Protokoi.ApiKoi.Data.Shared.dll
+D:\Projects\DOTNET\Protokoi\ApiKoi\Protokoi.ApiKoi.Data.Shared\bin\Debug\net8.0\Protokoi.ApiKoi.Data.Shared.deps.json
+D:\Projects\DOTNET\Protokoi\ApiKoi\Protokoi.ApiKoi.Data.Shared\bin\Debug\net8.0\Protokoi.ApiKoi.Data.Shared.dll
+D:\Projects\DOTNET\Protokoi\ApiKoi\Protokoi.ApiKoi.Data.Shared\bin\Debug\net8.0\Protokoi.ApiKoi.Data.Shared.pdb

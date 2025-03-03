@@ -1,0 +1,20 @@
+﻿[
+	{
+		"FirstName": "John",
+		"LastName": "Doe",
+		"MiddleName": "A",
+		"Email": "john.doe@example.com",
+		"PhoneNumber": "1234567890",
+		"CreatedDate": "2025-03-03T00:00:00Z",
+		"ModifiedDate": "2025-03-03T00:00:00Z"
+	},
+	{
+		"FirstName": "Jane",
+		"LastName": "Smith",
+		"MiddleName": "B",
+		"Email": "jane.smith@example.com",
+		"PhoneNumber": "0987654321",
+		"CreatedDate": "2025-03-03T00:00:00Z",
+		"ModifiedDate": "2025-03-03T00:00:00Z"
+	}
+]

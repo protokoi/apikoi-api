@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Protokoi.ApiKoi.Api.props" />
+</Project>

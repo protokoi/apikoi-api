@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "R6der72InOFLnJv8jEfxNjk5YWWKxa7plmASw7LHRhw=",
+  "Source": "Protokoi.ApiKoi.Api",
+  "BasePath": "_content/Protokoi.ApiKoi.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

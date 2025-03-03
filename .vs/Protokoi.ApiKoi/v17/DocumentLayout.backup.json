@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\DOTNET\\Protokoi\\ApiKoi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FD83DC5-EBDA-47A0-8CFA-58E64E3FF075}|Protokoi.ApiKoi.Data\\Protokoi.ApiKoi.Data.csproj|d:\\projects\\dotnet\\protokoi\\apikoi\\protokoi.apikoi.data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FD83DC5-EBDA-47A0-8CFA-58E64E3FF075}|Protokoi.ApiKoi.Data\\Protokoi.ApiKoi.Data.csproj|solutionrelative:protokoi.apikoi.data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FD83DC5-EBDA-47A0-8CFA-58E64E3FF075}|Protokoi.ApiKoi.Data\\Protokoi.ApiKoi.Data.csproj|d:\\projects\\dotnet\\protokoi\\apikoi\\protokoi.apikoi.data\\entities\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FD83DC5-EBDA-47A0-8CFA-58E64E3FF075}|Protokoi.ApiKoi.Data\\Protokoi.ApiKoi.Data.csproj|solutionrelative:protokoi.apikoi.data\\entities\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FD83DC5-EBDA-47A0-8CFA-58E64E3FF075}|Protokoi.ApiKoi.Data\\Protokoi.ApiKoi.Data.csproj|d:\\projects\\dotnet\\protokoi\\apikoi\\protokoi.apikoi.data\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FD83DC5-EBDA-47A0-8CFA-58E64E3FF075}|Protokoi.ApiKoi.Data\\Protokoi.ApiKoi.Data.csproj|solutionrelative:protokoi.apikoi.data\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FD83DC5-EBDA-47A0-8CFA-58E64E3FF075}|Protokoi.ApiKoi.Data\\Protokoi.ApiKoi.Data.csproj|d:\\projects\\dotnet\\protokoi\\apikoi\\protokoi.apikoi.data\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FD83DC5-EBDA-47A0-8CFA-58E64E3FF075}|Protokoi.ApiKoi.Data\\Protokoi.ApiKoi.Data.csproj|solutionrelative:protokoi.apikoi.data\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FD83DC5-EBDA-47A0-8CFA-58E64E3FF075}|Protokoi.ApiKoi.Data\\Protokoi.ApiKoi.Data.csproj|d:\\projects\\dotnet\\protokoi\\apikoi\\protokoi.apikoi.data\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FD83DC5-EBDA-47A0-8CFA-58E64E3FF075}|Protokoi.ApiKoi.Data\\Protokoi.ApiKoi.Data.csproj|solutionrelative:protokoi.apikoi.data\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FD83DC5-EBDA-47A0-8CFA-58E64E3FF075}|Protokoi.ApiKoi.Data\\Protokoi.ApiKoi.Data.csproj|d:\\projects\\dotnet\\protokoi\\apikoi\\protokoi.apikoi.data\\protokoi.apikoi.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3FD83DC5-EBDA-47A0-8CFA-58E64E3FF075}|Protokoi.ApiKoi.Data\\Protokoi.ApiKoi.Data.csproj|solutionrelative:protokoi.apikoi.data\\protokoi.apikoi.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B95A523-1FCA-4E75-97B4-48D866CDD819}|Protokoi.ApiKoi.Api\\Protokoi.ApiKoi.Api.csproj|d:\\projects\\dotnet\\protokoi\\apikoi\\protokoi.apikoi.api\\controllers\\v1\\commonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B95A523-1FCA-4E75-97B4-48D866CDD819}|Protokoi.ApiKoi.Api\\Protokoi.ApiKoi.Api.csproj|solutionrelative:protokoi.apikoi.api\\controllers\\v1\\commonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B95A523-1FCA-4E75-97B4-48D866CDD819}|Protokoi.ApiKoi.Api\\Protokoi.ApiKoi.Api.csproj|d:\\projects\\dotnet\\protokoi\\apikoi\\protokoi.apikoi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B95A523-1FCA-4E75-97B4-48D866CDD819}|Protokoi.ApiKoi.Api\\Protokoi.ApiKoi.Api.csproj|solutionrelative:protokoi.apikoi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\DOTNET\\Protokoi\\ApiKoi\\Directory.Build.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Directory.Build.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Projects\\DOTNET\\Protokoi\\ApiKoi\\Protokoi.ApiKoi.Data\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Protokoi.ApiKoi.Data\\Entities\\User.cs",
+              "ToolTip": "D:\\Projects\\DOTNET\\Protokoi\\ApiKoi\\Protokoi.ApiKoi.Data\\Entities\\User.cs",
+              "RelativeToolTip": "Protokoi.ApiKoi.Data\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T19:16:44.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Todo.cs",
+              "DocumentMoniker": "D:\\Projects\\DOTNET\\Protokoi\\ApiKoi\\Protokoi.ApiKoi.Data\\Entities\\Todo.cs",
+              "RelativeDocumentMoniker": "Protokoi.ApiKoi.Data\\Entities\\Todo.cs",
+              "ToolTip": "D:\\Projects\\DOTNET\\Protokoi\\ApiKoi\\Protokoi.ApiKoi.Data\\Entities\\Todo.cs",
+              "RelativeToolTip": "Protokoi.ApiKoi.Data\\Entities\\Todo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T19:16:38.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Post.cs",
+              "DocumentMoniker": "D:\\Projects\\DOTNET\\Protokoi\\ApiKoi\\Protokoi.ApiKoi.Data\\Entities\\Post.cs",
+              "RelativeDocumentMoniker": "Protokoi.ApiKoi.Data\\Entities\\Post.cs",
+              "ToolTip": "D:\\Projects\\DOTNET\\Protokoi\\ApiKoi\\Protokoi.ApiKoi.Data\\Entities\\Post.cs",
+              "RelativeToolTip": "Protokoi.ApiKoi.Data\\Entities\\Post.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA4wBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T19:16:30.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "D:\\Projects\\DOTNET\\Protokoi\\ApiKoi\\Protokoi.ApiKoi.Data\\Entities\\Comment.cs",
+              "RelativeDocumentMoniker": "Protokoi.ApiKoi.Data\\Entities\\Comment.cs",
+              "ToolTip": "D:\\Projects\\DOTNET\\Protokoi\\ApiKoi\\Protokoi.ApiKoi.Data\\Entities\\Comment.cs",
+              "RelativeToolTip": "Protokoi.ApiKoi.Data\\Entities\\Comment.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA5wBUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T19:16:22.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Projects\\DOTNET\\Protokoi\\ApiKoi\\Protokoi.ApiKoi.Data\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Protokoi.ApiKoi.Data\\Entities\\Category.cs",
+              "ToolTip": "D:\\Projects\\DOTNET\\Protokoi\\ApiKoi\\Protokoi.ApiKoi.Data\\Entities\\Category.cs",
+              "RelativeToolTip": "Protokoi.ApiKoi.Data\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T19:16:13.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Protokoi.ApiKoi.Data.csproj",
+              "DocumentMoniker": "D:\\Projects\\DOTNET\\Protokoi\\ApiKoi\\Protokoi.ApiKoi.Data\\Protokoi.ApiKoi.Data.csproj",
+              "RelativeDocumentMoniker": "Protokoi.ApiKoi.Data\\Protokoi.ApiKoi.Data.csproj",
+              "ToolTip": "D:\\Projects\\DOTNET\\Protokoi\\ApiKoi\\Protokoi.ApiKoi.Data\\Protokoi.ApiKoi.Data.csproj",
+              "RelativeToolTip": "Protokoi.ApiKoi.Data\\Protokoi.ApiKoi.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-03T19:14:09.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CommonsController.cs",
+              "DocumentMoniker": "D:\\Projects\\DOTNET\\Protokoi\\ApiKoi\\Protokoi.ApiKoi.Api\\Controllers\\v1\\CommonsController.cs",
+              "RelativeDocumentMoniker": "Protokoi.ApiKoi.Api\\Controllers\\v1\\CommonsController.cs",
+              "ToolTip": "D:\\Projects\\DOTNET\\Protokoi\\ApiKoi\\Protokoi.ApiKoi.Api\\Controllers\\v1\\CommonsController.cs",
+              "RelativeToolTip": "Protokoi.ApiKoi.Api\\Controllers\\v1\\CommonsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T01:52:39.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\DOTNET\\Protokoi\\ApiKoi\\Protokoi.ApiKoi.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Protokoi.ApiKoi.Api\\Program.cs",
+              "ToolTip": "D:\\Projects\\DOTNET\\Protokoi\\ApiKoi\\Protokoi.ApiKoi.Api\\Program.cs",
+              "RelativeToolTip": "Protokoi.ApiKoi.Api\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T01:49:22.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Directory.Build.props",
+              "DocumentMoniker": "D:\\Projects\\DOTNET\\Protokoi\\ApiKoi\\Directory.Build.props",
+              "RelativeDocumentMoniker": "Directory.Build.props",
+              "ToolTip": "D:\\Projects\\DOTNET\\Protokoi\\ApiKoi\\Directory.Build.props",
+              "RelativeToolTip": "Directory.Build.props",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-03-03T01:48:18.446Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
